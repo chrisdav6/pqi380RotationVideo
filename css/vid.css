@@ -1,0 +1,17 @@
+#video {
+  width: 100%;
+  border-top: 5px solid#191919;
+  border-bottom: 5px solid#191919;
+  background: linear-gradient(
+    279deg,
+    rgba(214, 215, 221, 1) 0%,
+    rgba(207, 204, 203, 1) 100%
+  );
+}
+
+#video video {
+  max-height: calc(80vh - 68.57px);
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+}
