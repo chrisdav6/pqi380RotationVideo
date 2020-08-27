@@ -1,7 +1,7 @@
 #video {
   width: 100%;
-  border-top: 5px solid#191919;
-  border-bottom: 5px solid#191919;
+  border-top: 3px solid#191919;
+  border-bottom: 3px solid#191919;
   background: linear-gradient(
     279deg,
     rgba(214, 215, 221, 1) 0%,
@@ -10,7 +10,7 @@
 }
 
 #video video {
-  max-height: calc(80vh - 68.57px);
+  max-height: 60vh;
   display: block;
   width: 100%;
   margin: 0 auto;
